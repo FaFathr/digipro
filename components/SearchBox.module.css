@@ -1,0 +1,130 @@
+.outercontainer{
+display: flex;
+direction: rtl;
+justify-content: space-between;
+height: 13vh;
+background-color: rgb(255, 255, 255);
+margin-top: -35px;
+}
+.digikalasearch{
+    display: flex;
+    background-color: white;
+    margin-right: 19px;
+    width: 55%;
+}
+.digikalaicon{
+margin-top: -40px;
+}
+.digikalaiconimg{}
+.SearchBox{
+margin-top: 13px;
+margin-right: 35px;
+
+}
+.btncondiv{
+
+}
+.textsreachbox{
+padding: 10px;
+outline:none;
+/* padding: 10px 70px 10px 70px; */
+color: #81858b;
+background-color:#e0e0e2 ;
+border: none;
+border-bottom-left-radius: 10px;
+border-top-left-radius: 10px;
+padding: 15px 172px;
+text-align: right;
+margin-top: 8px;
+
+}
+.buttoncontainer1{
+    /* padding: 9px 15px 10px 15px; */
+    color:#81858b;
+    background-color:#e0e0e2 ;
+    outline:none;
+    border: none;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding:  15px 19px;
+}
+.searchdiv{
+    margin-right: 48px;
+    margin-top: -54px;
+}
+.logbasket{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    margin-left: 55px;
+   width: 20%;
+
+}
+.log{
+ 
+
+}
+.buttoncontainer2{
+border-radius: 10px;
+border: 1px solid #c0c4c9;
+background-color:rgb(255, 255, 255);
+margin-top: 12px;
+margin-bottom: 12px;
+margin-left: 15px;
+padding: 0px 17px 0px 11px;
+height: 52px;
+
+}
+.link1{
+    color:#4f84d5;
+    justify-content: center;
+    text-decoration: none;
+    font-weight: 100;
+}
+.txt2{
+    color: black;
+    font-size: 19px;
+  margin-top: 15px;
+    align-items: center;
+    font-size: 15px;
+    text-align: center;
+}
+.txt2{
+    margin-right: 2px;
+}
+
+.basket{
+color: black;
+background-color: rgb(255, 255, 255);
+}
+.buttoncontainer3{
+  margin-top: 18px;
+    border: none;
+    font-size: 35px;
+    margin-right: 21px;
+    background-color: white;
+
+}
+.link2{
+    background-color: white;
+}
+.txt4{
+    color: black;
+    background-color: white;
+}
+/* .textcontainer{
+background-color:#e8ebee;
+width: 30%;
+border-radius: 10px;
+color: #81858b;
+align-items: center;
+outline: none;
+direction: rtl;}
+
+}
+.buttoncontainer{
+width: 10%;
+border-radius: 10px;
+color: #81858b;
+outline: none;
+box-sizing: border-box;
+} */

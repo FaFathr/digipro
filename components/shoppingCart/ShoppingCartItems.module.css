@@ -1,0 +1,20 @@
+.outercontainer{
+display: flex;
+flex-direction: column;
+}
+.containertopleft{
+}
+.containerdigi{
+
+}
+.containertotal{
+    border: 1px solid #e0e0e2;
+    width: 20%;
+    height: 13vh;
+    float: left;
+    margin-bottom: 80px;
+    height: 42vh;
+    margin-top: -174px;
+    margin-left: 150px;
+    border-radius: 8px;
+}

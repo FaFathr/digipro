@@ -1,0 +1,25 @@
+.outercontainer{
+background-color:#ef4056;
+border-radius: 10px;
+display: flex;
+height: 50vh;
+}
+.carouselcontainer{
+width: 80%;
+
+}
+.rightcontainer{
+width: 20%;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+.containerimg1{
+background-color: #ef4056;
+color: white;
+}
+.containerimg2{
+background-color: #ef4056;
+}

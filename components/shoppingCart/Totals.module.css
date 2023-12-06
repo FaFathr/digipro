@@ -1,0 +1,89 @@
+.outercontainer{
+    background-color: rgb(255, 255, 255);
+ direction: rtl;
+
+ 
+}
+.totalprice{
+  display: flex;
+  flex-direction: column;
+
+}
+.text{
+ margin-right: 15px;
+ margin-top: 15px;
+}
+.price{
+color:#62666d ; 
+text-align: left;
+margin-left: 15px;
+margin-top: -17px;
+font-weight: 500;
+}
+.name{
+color: #62666d;
+}
+.toman{
+    color:#62666d ;
+    font-weight: 500;
+   
+}
+.submitbutton{
+  display: flex;
+  justify-content: center;
+  margin-top: 24px;
+
+}
+.submitbutton1{
+ background-color:  #ef4056;
+ border: none;
+  padding: 10px 80px;
+  border-radius: 8px;
+}
+.link2{
+ text-decoration: none;
+}
+.submit{
+ color: white;
+
+}
+.footercontainer{
+background-color: #f0f0f1;
+padding: 20px 0px;
+margin-top: 34px;
+}
+.footercontainer1{
+
+}
+.coin{
+color: rgb(235, 201, 4);
+margin-right: 15px;
+}
+.club{
+  color: #62666d;
+  font-weight: 500;
+  margin-right: 4px;
+}
+.circle{
+  color: #62666d;
+  margin-right: 4px;
+}
+.endfoot{
+  display: flex;
+}
+.score1{
+  color: #62666d;
+  margin-right: 50px;
+  font-weight: 600;
+}
+.score{
+  color: #62666d;
+  margin-right: 5px;
+
+}
+.more{
+  color:#81858b ;
+  font-size: 12px;
+  margin-top: 10px;
+  margin-right: 3px;
+}

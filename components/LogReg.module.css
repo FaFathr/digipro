@@ -1,0 +1,31 @@
+.outercontainer{
+    outline: magenta;
+    width: 13%;
+    
+    margin-top: -45px;
+}
+.btn1{
+background-color: rgb(255, 255, 255);
+border-radius: 10px;
+border: 1px solid rgb(186, 184, 184);
+
+height: 47px;
+margin-top: 6px;
+}
+.txt1{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    display: flex;
+}
+.txt2{
+    text-decoration: none;
+    color: black; 
+    margin-top: 10px;
+}
+.txt3{
+    font-size: 26px; 
+    margin-top: 11px;
+    margin-left: 10px;
+
+}

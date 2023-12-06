@@ -1,0 +1,28 @@
+.outercontainer{
+   border: 1px solid #e0e0e2; 
+   width: 65%;
+   margin-left: 450px;
+   margin-top: 10px;
+   border-radius: 8px;
+   height: 52vh;
+   margin-bottom: 5px;
+}
+.container{
+    text-align: center;
+}
+.img{
+    margin-top: -39px;
+}
+.images{
+width: 25%;
+align-items: center;
+
+}
+.h2{
+font-size: 22px;
+;
+}
+.h6{
+color:#62666d ;
+margin-top: 10px;
+}

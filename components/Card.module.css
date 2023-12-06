@@ -1,0 +1,77 @@
+.mainContainer {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(40, 21, 21);
+    width: 170px;
+    height: 47vh;
+    text-align: right;
+    padding: 0 15px;
+    overflow: hidden;
+    direction: rtl;
+    /* margin: 0 10px; */
+    margin-top: 12px;
+    margin-bottom: 18px;
+   border: none;
+    
+}
+
+.productName{
+    font-size: 12px;
+   margin-right:-9px;
+    line-height: 2em;
+    color: #000000;
+   
+}
+
+.priceContainer {
+    height:3em;
+    color: rgb(36, 182, 46);
+    line-height: 1.6em;
+    margin-right:70px;
+    margin-top: 4px;
+  }
+  .priceDetail{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+  }
+  .priceBeforeOff {
+    color: rgb(4, 3, 3);
+    text-decoration-line: line-through;
+    text-decoration-color: red;
+    text-decoration-thickness: 0.1em;
+    font-size: 15px;
+    margin-right: -67px;
+  }
+  .offPrcent {
+    text-align: center;
+    width: 3em; 
+    font-size: 0.9em;
+    border-radius: 1em;
+    height: 1em;
+    border-style: none;
+    background-color: #2e9a39;
+    color: rgb(241, 235, 235);  
+    padding: 5px;
+    margin-top: 5px;
+    margin-right: -51px;
+    
+}
+.incredibleOfferImageContainer{
+  padding-top: 4px;
+  height: 3px;
+  padding-right: 1px;
+  margin-right: 19px;
+  
+}
+.imagespro{
+  padding-right:-5px;
+  text-align: center;
+}
+.namojod{
+  background-color: rgb(136, 14, 14);
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  border-radius: 5px;
+  color: white;
+}

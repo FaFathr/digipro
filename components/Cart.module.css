@@ -1,0 +1,26 @@
+.outer{
+    background-color: white;
+}
+.spanorg{ 
+
+display: flex;
+}
+.span{
+    background-color: #e6123d;
+  color: white;
+  padding: 0px 7px;
+  text-align: center;
+  border-radius: 8px;
+  margin-top: -22px;
+  margin-right: 6px;
+    font-size: 20px;
+   text-decoration: none;
+
+}
+.icon{
+    color: #222732;
+    background-color: white;
+    margin-top: -1px;
+    margin-right: 18px;
+
+}

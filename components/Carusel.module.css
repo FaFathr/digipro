@@ -1,0 +1,15 @@
+.mainContainer {
+  background-color: rgb(75, 127, 195);
+  width: 90%;
+  margin: 1em auto;
+  border-radius: 1em;
+  display: flex;
+  overflow: hidden;
+}
+
+.customClass {
+  margin: 2em;
+  background-color: rgb(232, 227, 239);
+  padding: 1em 0;
+  border-radius: 1em;
+}/*# sourceMappingURL=Carusel.module.css.map */

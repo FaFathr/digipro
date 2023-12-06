@@ -1,0 +1,76 @@
+
+.Digiplustitel{
+    background-color: rgb(255, 255, 255);
+    border:  1px solid #b12ba4;
+    height: 28vh;
+    border-radius: 8px;
+    width: 65%;
+    margin-top: 25px;
+    text-align: center;
+    direction: rtl;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 450px;
+
+}
+.Digiplusright{
+    float: right;
+    margin-top: 34px;
+}
+.Digitexts{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between
+}
+.h1d{
+margin-right: 20px;
+}
+.h1{
+color:#b12ba4 ;
+font-weight: 700;
+    margin-left: 130px;
+    margin-top: -25px;
+
+}
+.h2d{
+
+}
+.h2{
+color:#3f4064 ;
+margin-top: 12px;
+font-weight: 600;
+font-size: 18px;
+}
+.buttond{
+
+}
+.button{
+    background-color:#b12ba4;
+    color: white;
+    margin-top: 16px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: -62px;
+    border: none;
+    
+}
+
+.Digiplusleft{
+    /* display: flex;
+    flex-direction: column; */
+    color: #81858b;
+   text-align: right;
+   margin-right: 40px;
+    margin-top: 10px;
+    font-size: 13px;
+    background-image: url("/public/images/digiplus-purple-pattern.svg");
+}
+
+.codimg{
+  /* display: flex;
+    flex-direction: row; */
+}
+.modalstiteldigi{
+    color: #b12ba4;
+    direction: rtl;
+}
